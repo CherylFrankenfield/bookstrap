@@ -15,3 +15,7 @@ body {
   color: #fbfcbf;
   margin-top: 25px;
 }
+
+#outputform{
+  display: none;
+}
