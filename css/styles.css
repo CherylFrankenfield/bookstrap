@@ -7,3 +7,11 @@ body {
   background-color: transparent;
   border: 4px solid #04edc2;
 }
+
+.btn-style {
+  box-shadow: none;
+  background-color: transparent;
+  border: 5px dotted #04edc2;
+  color: #fbfcbf;
+  margin-top: 25px;
+}
